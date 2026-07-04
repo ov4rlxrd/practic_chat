@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+env/
+*.venv
+
+# Собранный llama-cpp-python (создаётся build_llama_cuda.bat)
+llama-cpp-python/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+*.gguf
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
