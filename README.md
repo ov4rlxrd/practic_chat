@@ -36,7 +36,7 @@ GGUF. Работает полностью офлайн: модель загру�
 ### 1. Клонируй репозиторий и создай виртуальное окружение
 
 ```bash
-git clone <ссылка-на-репозиторий>
+git clone https://github.com/ov4rlxrd/practic_chat/
 cd practic_chat
 python -m venv venv
 venv\Scripts\activate
