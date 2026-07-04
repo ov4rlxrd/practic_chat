@@ -75,7 +75,7 @@ python app.py
 ## Структура проекта
 
 ```
-localai/
+practic_chat/
 ├── app.py                   ← основной код приложения
 ├── requirements.txt         ← зависимости (кроме llama-cpp-python)
 └── README.md
