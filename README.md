@@ -37,7 +37,7 @@ GGUF. Работает полностью офлайн: модель загру�
 
 ```bash
 git clone <ссылка-на-репозиторий>
-cd localai
+cd practic_chat
 python -m venv venv
 venv\Scripts\activate
 ```
